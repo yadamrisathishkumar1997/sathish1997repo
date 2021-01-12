@@ -1,0 +1,276 @@
+.Homedesign {
+    border: 1px solid black;
+    background-color: lightblue;
+  
+ 
+}
+.Homedesign1{
+  border: 1px solid black;
+  background-color: rgb(96, 109, 114);
+  padding: 10px;
+}
+.Homedesign2 {
+  padding: 0px;
+  border: 1px solid #4CAF50;
+ background-color: yellowgreen;
+}
+.custom-select {
+  width:270px;
+  padding:10px;
+}
+.Dropdown {
+    
+    font-family: Arial;
+    display: flex;
+    justify-content: space-between;
+    width:500px;
+}
+
+  .Dropdown Button{
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 0%;
+  height:36px;
+
+  }
+
+  .Homedesign3{
+  
+    color: #1084c3;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+   }
+   .Homedesign4 {
+    color: #1084c3;
+    display: flex;
+   }
+   .Homedesign4 a{
+    padding-left: 10px;
+    
+   }
+   .Homedesign4 a1{
+    padding-left: 200px;
+  }
+  
+  .Homedesign4 a2{
+    padding-left: 120px;
+  }
+  Homedesign5{
+    display: flex;
+  }
+  .Homedesign5 a{
+    padding-left: 323px;
+  }
+  .Homedesign5 a1{
+    color: #1084c3;
+    padding-left: 2px;
+    font-size: 12px;
+  }
+  .Homedesign5 a2{
+    color: rgb(0,0,100);
+    padding-left: 5px;
+    font-size: 12px;
+  }
+   
+  .Homedesign5 a3{
+    color: #1084c3;
+    padding-left: 50px;
+    
+  }
+  .Homedesign5 a3 Button{
+    border-radius: 30%;
+  }
+  .Homedesign5 b1{
+    color: #1084c3;
+    padding-left: 300px;
+   
+  }
+  .Homedesign6{
+    display: flex;
+  }
+  .Homedesign6 a{
+    
+    padding: 10px;
+  }
+  .Homedesign6 a select{
+    width: 270px;
+    height:35px;
+    border-radius: 5px;
+  }
+  .Homedesign6 a1 {
+    display: flex;
+    border-style: solid;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-left: 43px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+    
+  }
+  .Homedesign6 a1 b1{
+    position: 60px;
+  }
+  .Homedesign6 a1 b2{
+    padding-left: 40px;
+  }
+  .Homedesign6 a2{
+  
+  
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    border-style: solid;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 40px;
+    background-color: lightblue;
+    border-radius: 5px;
+  }
+  .Homedesign6 a2 div2 zz2{
+    padding-left: 30px;
+
+    
+  }
+  .Homedesign6 a2 div2 zz2 select{
+    width: 110px;
+    height:30px;
+    border-radius: 5px;    
+
+    
+  }
+  .Homedesign6 a2 div3 zz3{
+    padding-left: 12px;
+
+    
+  }
+  
+  .Homedesign6 a2 div3 zz3 select{
+    width: 110px;
+    height:30px;
+    border-radius: 5px;    
+
+    
+  }
+  .Homedesign6 a2 div4 zz4{
+    padding-left: 19px;
+
+    
+  }
+  
+  .Homedesign6 a2 div4 zz4 select{
+    width: 110px;
+    height:30px;
+    border-radius: 5px;    
+
+    
+  }
+  .Homedesign6 a2 z1{
+    padding-left: 80px;
+  }
+  .Homedesign6 a2 y1{
+    padding-left: 60px;
+  }
+  .Homedesign6 a3{
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .Homedesign6 select{
+    width: 250px;
+    height:35px;
+    border-radius: 5px;
+
+  }
+  .Homedesign7 {
+    color: #1084c3;
+    display: flex;
+    padding-top: 10px;
+   }
+   .Homedesign7 a{
+    padding-left: 10px;
+    
+   }
+   .Homedesign7 a1{
+    padding-left: 178px;
+    
+  }
+  
+  .Homedesign7 a2{
+    padding-left: 120px;
+  }  
+  .Homedesign8 a{
+    display: flex;
+    border-style: solid;
+    padding-right:10px;
+    background-color: rgba(0,0,50,0.1);
+    margin-top: 10px;
+    margin-left: 10px;
+      
+  
+  
+  }
+  .Homedesign8 a zz1{
+   
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+  .Homedesign8 a zz1 c6{
+   
+    font-size: 13px;
+  }
+  .Homedesign8 a zz1 c6 input{
+   
+    width: 20px;
+  }
+  .Homedesign8{
+    display: flex;
+  }
+  .Homedesign8 a1{
+    padding-right: 140px;
+    padding-top: 10px;
+    border-style: solid;
+    margin-right: 50px;
+    margin-left: 140px;
+    background-color: rgba(0,0,50,0.1);
+    margin-top: 10px;
+  }
+  .Homedesign8 a2 i1{
+    display: flex;
+    
+    
+  }   
+  .Homedesign8 a2 i2{
+    display: flex;
+  }  
+  .Homedesign8 a2{
+    padding-left: 0px;
+    padding-top: 10px;
+    border-style: solid;
+    background-color: rgba(0,0,50,0.1);
+    margin-top: 10px;
+  }  
+  .Homedesign9{
+    display: flex;
+  }
+  .Homedesign9 c1{
+    padding-right: 20px;
+    padding-left: 10px;
+  }
+ 
+  
+  
+      
+

@@ -1,0 +1,28 @@
+.block1{
+    font-size: 13px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.block2{
+    font-size: 13px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.block3{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.block3 input{
+    width: 250px;
+    border-radius: 5px;
+}
+.block4 a2 button {
+    background-color: lightgreen;
+}
+.block4 a3 button {
+    background-color: lightgreen;
+}
+.block4 {
+    display: flex;
+}

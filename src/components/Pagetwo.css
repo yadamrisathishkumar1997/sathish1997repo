@@ -1,0 +1,203 @@
+.Homedesign {
+    border: 1px solid black;
+    background-color: lightblue;
+  
+ 
+}
+.Homedesign1{
+  border: 1px solid black;
+  background-color: rgb(96, 109, 114);
+  padding: 10px;
+}
+.Homedesign2 {
+  padding: 0px;
+  border: 1px solid #4CAF50;
+ background-color: yellowgreen;
+}
+.Design1 a1{
+    color: #1084c3;
+    display: flex;
+    padding-top: 10px;
+}
+.Design1 a1 r1{
+    padding-left: 40px;
+}
+.Design1 a1 r2{
+    padding-left: 70px;
+}
+.Design1 a1 r3{
+    padding-left: 70px;
+}
+.Design1 a1 r4{
+    padding-left: 70px;
+}
+.Design2{
+    display: flex;
+}
+.Design2 a1 select{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.Design2 a2 select{
+    margin-top: 10px;
+    margin-left: 25px;
+    width:180px;
+    height: 158px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.Design2 a3 select{
+    margin-top: 10px;
+    margin-left: 25px;
+    width:180px;
+    height: 158px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.Design2 a4 select{
+    margin-top: 10px;
+    margin-left: 25px;
+    width:180px;
+    height: 158px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.Design3
+{
+    font-size: 10px;
+}
+.Design3 a1{
+    padding-left: 10px;
+    color: #1084c3;
+    
+}
+.Design3 a2{
+    padding-left: 10px;
+    color: #1084c3;
+}
+.Design3 a3{
+    padding-left: 170px;
+    color: #1084c3;
+}
+.Design3 a4{
+    padding-left: 160px;
+    color: #1084c3;
+}
+.Design3 a5{
+    padding-left: 170px;
+    color: #1084c3;
+}
+.Design4 a1{
+    color: #1084c3;
+    padding-left: 40px;
+}
+.Design4 a2{
+    color: #1084c3;
+    padding-left: 320px;
+}
+.Design5{
+    display: flex;
+}
+.Design5 n1{
+    display: flex;
+    border-style: solid;
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: lightgrey;
+
+}
+.Design5 n1 k1{
+    color: #1084c3;
+    font-size: 10px;
+}
+.Design5 n1 k1 a1{
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.Design5 n1 k1 l1 select{
+    width: 150px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+.Design5 n1 k1 a2  select{
+    margin-top: 10px;
+    margin-left: 40px;
+    width:150px;
+    height: 138px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.Design5 n1 k2{
+    padding-left: 10px;
+    padding-top: 0px;
+}
+.Design5 n1 k2 a1{
+    font-size: 10px;
+    color: #1084c3;
+    padding-left: 10px;
+}
+.Design5 n1 k2 l1 select{
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.Design5 n1 k2 x1 input{
+    width: 140px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.Design5 n1 k2 x2  select{
+    margin-top: 10px;
+    margin-left: 10px;
+    width:150px;
+    height: 100px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+.Design5 n2 a1 c1 select{
+    width: 150px;
+    margin-left: 30px;
+    height:25px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.Design5 n2 a1 c2 select{
+    width: 150px;
+    margin-left: 30px;
+    border-radius: 5px;
+    height:25px;
+    margin-top: 10px;
+}
+.Design5 n2 a1 c3{
+    padding-left: 31px;
+    color: #1084c3;
+}
+.Design5 n2 a1 c4{
+    display: flex;
+    padding-top: 10px;
+    
+}
+.Design5 n2 a1 c4 k1{
+    padding-left: 30px;
+    
+}
+.Design5 n2 a1 c4 k2{
+    padding-left: 30px;
+    padding-right: 5px;
+    
+}
+.Design5 n2 a1 c4 k1 input{
+    width: 15px;
+}
+.Design5 n2 a1 c4 k2 input{
+    width: 15px;
+    
+}
+
+
